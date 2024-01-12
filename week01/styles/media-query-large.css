@@ -1,0 +1,15 @@
+@media (min-width: 500px) {
+    body{
+        font-size: 16px;
+    }   
+}
+
+header {
+    background-color: black;
+    color: white;
+}
+
+main {
+    grid-template-columns: 1fr 1fr;
+}
+    
